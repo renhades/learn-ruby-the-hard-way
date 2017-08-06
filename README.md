@@ -1,2 +1,1 @@
-Sample codes from https://learnrubythehardway.org/
----
+Exercise code from https://learnrubythehardway.org/book/
